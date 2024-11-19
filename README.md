@@ -15,10 +15,10 @@ k probando diferentes alternativas desde 1 hasta 20 vecinos.
 Evaluar el rendimiento del modelo utilizando métricas de precisión, matriz de confusión y curva ROC.
 
 ## Resultados Clave
-Valor Óptimo de 𝑘
-k: Se determinó el mejor valor para 𝑘
-Matriz de Confusión: El análisis de la matriz de confusión mostró una buena capacidad del modelo para predecir correctamente los empleados que abandonan o permanecen en la empresa.
-Curva ROC y AUC indicando un buen rendimiento en la clasificación.
+Valor Óptimo de 𝑘                                                                                                                                                                 
+k: Se determinó el mejor valor para 𝑘                                                                                                                                         
+Matriz de Confusión: El análisis de la matriz de confusión mostró una buena capacidad del modelo para predecir correctamente los empleados que abandonan o permanecen en la empresa.      
+Curva ROC y AUC indicando un buen rendimiento en la clasificación.                                                                                                               
 
 ## Autor
 Isaac Heredia Diaz
